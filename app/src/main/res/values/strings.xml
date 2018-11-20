@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">matrice_UI</string>
+    <string name="welcom">Welcome to the Wild Code School</string>
+    <string name="wilder">Yes, I want to be a wilder!</string>
+    <string name="fname">Firstname</string>
+    <string name="lname">Lastname</string>
+    <string name="validate">ACCEPT</string>
+</resources>
